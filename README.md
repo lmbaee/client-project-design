@@ -4,4 +4,4 @@ Dark Minimalistic Theme: Uses a dark background with contrasting white text for 
 Flexbox Layout: Ensures a clean, structured presentation of content, making navigation intuitive.
 Smooth Animations: Hover effects and transitions create a fluid and engaging user experience.
 Professional Branding: The layout highlights Jason’s skills, projects, and contact details in a structured format.
-LinkedIn Integration: A direct link to his LinkedIn profile is incorporated for networking opportunities. */
+LinkedIn Integration: A direct link to his LinkedIn profile is incorporated for networking opportunities. 
